@@ -2,7 +2,7 @@
   "name": "vite-vue3-tailwind-starter",
   "version": "0.0.0",
   "scripts": {
-    "start": "vite --host --port",
+    "start": "vite preview --host --port",
     "build": "vite build",
     "dev": "vite"
   },
