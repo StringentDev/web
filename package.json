@@ -28,6 +28,6 @@
     "vue-cli-plugin-axios": "~0.0.4"
   },
   "engines": {
-    "node": "<=16"
+    "node": "16.15.1"
   }
 }
