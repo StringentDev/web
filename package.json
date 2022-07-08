@@ -2,7 +2,7 @@
   "name": "query",
   "version": "0.0.0",
   "scripts": {
-    "start": "npm i -g http-server && http-server dist",
+    "start": "npx http-server ./dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port $PORT --host 0.0.0.0",
